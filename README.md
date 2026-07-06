@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Campus Analytics Engine
 
 A multi-file, menu-driven C++ data analytics system for a fictional university campus.
@@ -89,3 +90,7 @@ Rank  Roll          Name                CGPA
 - All searching/sorting (selection sort, bubble sort, manual substring matching) is implemented by hand — no `<algorithm>` header is used anywhere.
 - Department grouping uses parallel arrays with nested loops instead of `std::map`.
 - Date arithmetic for late fees is done with a manual day-count function and a hardcoded month-length table (leap years included) — no `<ctime>`.
+=======
+# Rabia-bibi
+this is my first C++ programing fundamental project by using github .
+>>>>>>> 6021a086e79f2811ed1a95a9e9ff1102b89e0b79
