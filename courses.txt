@@ -1,0 +1,6 @@
+code,title,credits,seats,prereq
+CS101,Programming Fundamentals,3,40,NONE
+CS102,Object Oriented Programming,3,40,CS101
+CS201,Data Structures,3,35,CS102
+MA101,Calculus I,3,50,NONE
+AI201,Introduction to AI,3,30,CS101

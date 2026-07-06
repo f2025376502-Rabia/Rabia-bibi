@@ -1,0 +1,4 @@
+roll,course_code,semester,letter_grade,total_score
+BSAI-23-001,CS101,Fall2025,A,88.5
+BSAI-23-002,CS101,Fall2025,B+,81.2
+BSAI-23-003,CS101,Fall2025,C,62.0

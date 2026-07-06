@@ -1,0 +1,6 @@
+roll,name,dept,cgpa,status
+BSAI-23-001,Ahmed Raza,AI,3.45,active
+BSAI-23-002,Sana Malik,AI,3.80,active
+BSAI-23-003,Bilal Hussain,AI,2.90,active
+BSAI-23-004,Ayesha Noor,AI,3.20,active
+BSAI-23-005,Usman Tariq,AI,2.10,inactive
