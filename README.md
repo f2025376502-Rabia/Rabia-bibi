@@ -94,3 +94,4 @@ Rank  Roll          Name                CGPA
 # Rabia-bibi
 this is my first C++ programing fundamental project by using github .
 >>>>>>> 6021a086e79f2811ed1a95a9e9ff1102b89e0b79
+This project was built to practice C++ fundamentals including file handling, functions, and data management.
