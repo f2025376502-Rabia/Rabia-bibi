@@ -5,6 +5,7 @@
 #include <cstdlib>
 using namespace std;
 
+// Handles fee tracking and payment records
 // Days in each month for a non-leap year; adjusted for leap years in code.
 static int monthLength(int month, int year) {
     int lengths[12] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
