@@ -5,6 +5,7 @@
 #include <string>
 using namespace std;
 
+// Header file for attendance functions and declarations
 const string ATTENDANCE_FILE = "attendance_log.txt";
 const double SHORTAGE_THRESHOLD = 75.0;
 
