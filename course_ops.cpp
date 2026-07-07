@@ -5,6 +5,7 @@
 #include <cstdlib>
 using namespace std;
 
+// Handles course operations and management
 // grades.txt is used only to verify prerequisites (see checkPrerequisite).
 const string GRADES_FILE = "grades.txt";
 
