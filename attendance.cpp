@@ -5,6 +5,7 @@
 #include <iomanip>
 using namespace std;
 
+// Handles student attendance tracking and logging
 // Holds the pre-session snapshot in memory so undoLastSession can restore it.
 static vector<vector<string>> g_backupRows;
 static vector<string> g_backupHeader;
